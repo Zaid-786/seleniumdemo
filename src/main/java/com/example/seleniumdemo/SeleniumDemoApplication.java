@@ -20,7 +20,7 @@ public class SeleniumDemoApplication {
 		// this comment added from  windows's system
 	    System.out.println("welcome to windows system is running .....");
 
-
+		System.out.println("lets do some other practice ");
 	}
 
 }
