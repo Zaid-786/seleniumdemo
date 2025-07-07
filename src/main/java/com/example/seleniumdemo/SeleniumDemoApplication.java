@@ -23,7 +23,7 @@ public class SeleniumDemoApplication {
 	    
 	    System.out.println("lets do dome hands-on practice ");
 
-
+		System.out.println("lets do some other practice ");
 	}
 
 }
